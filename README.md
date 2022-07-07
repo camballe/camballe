@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @camballe
 - 👀 I’m interested in technology, entrepreneurship and soccer.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on various tech projects.
 - 📫 How to reach me: WhatsApp: +254702952908
 
