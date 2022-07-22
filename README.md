@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @camballe
+- 👋 Hi, I’m Enoch Kambale
 - 👀 I’m interested in technology and entrepreneurship.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I am a Front-End developer, proficient in HTML, CSS and Javascript.
 - 💞️ I’m looking to collaborate on various tech projects.
-- 📫 How to reach me: WhatsApp: +254702952908
+- 📫 How to reach me: WhatsApp: +254702952908 | email: campnoch@gmail.com 
 
 <!---
 camballe/camballe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
