@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Enoch Kambale
 - 👀 I’m interested in technology and entrepreneurship.
-- 👨🏾‍💻 I am a Front-End developer, proficient in HTML, CSS, JavaScript, SASS, Tailwind and React.
+- 👨🏾‍💻 I am a Front-End developer, proficient in HTML, CSS, JavaScript, SASS, Tailwind CSS, React and NextJs.
 - 🖥️ I’m looking to collaborate on various tech projects.
 - 📫 How to reach me: WhatsApp: +254702952908 | email: campnoch@gmail.com 
 
