@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Enoch Kambale
 - 👀 I’m interested in technology and entrepreneurship.
-- 👨🏾‍💻 I am a Full Stack Developer (MERN)
+- 👨🏾‍💻 I am a Full Stack Developer ( MERN )
 - 🖥️ I’m looking to collaborate on various tech projects.
 - 📫 How to reach me: WhatsApp: +254702952908 | email: campnoch@gmail.com 
 
