@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full Stack Engineer and a JavaScript evangelist! <br>My tech stack is MongoDB, Express.js, React JS , Node JS (MERN)<br>I also use Tailwind CSS, SASS, Next.js, Mongoose, SQL and Sequelize in building beautiful and powerful web applications.<br>Outside web development, I can also write C and C++<br>Of course I can write HTML and CSS, and do not tell me that they aren't programming languages! 😂😂
+I am a Full Stack Engineer and a JavaScript evangelist! <br>My tech stack is MERN)<br> Reach out to me: campnoch@gmail.com
 
 
 ## 🌐 Socials:
@@ -21,8 +21,7 @@ I am a Full Stack Engineer and a JavaScript evangelist! <br>My tech stack is Mon
 ---
 [![](https://visitcount.itsvg.in/api?id=camballe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/campnoch@gmail.com) 
+  
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
