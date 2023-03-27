@@ -1,5 +1,5 @@
 # 💫 About Me:
-**My name is ENOCH. <br>I am a Full Stack Engineer and a JavaScript evangelist! 🤓 <br>My tech stack is MERN<br> Reach out to me: campnoch@gmail.com**
+**My name is ENOCH. <br>I am a Full Stack Engineer and a JavaScript evangelist! 🤓 <br> Reach out to me here 👉 campnoch@gmail.com**
 
 
 ## 🌐 Socials:
