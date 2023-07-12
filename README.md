@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Enoch and I am a Full-stack developer, passionate about all things technology!
+Hi, I'm Enoch!
 
 
 ## 🌐 Socials:
