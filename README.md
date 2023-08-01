@@ -1,4 +1,4 @@
-# I'm Enoch!👋
+# Hi, I'm Enoch!👋
 
 
 ## 🌐 Socials:
