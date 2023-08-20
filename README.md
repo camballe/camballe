@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Enoch</h1>
 <h3 align="center">A passionate full stack developer from Kenya</h3>
 
+<p align="left"> <a href="https://twitter.com/enkambale" target="blank"><img src="https://img.shields.io/twitter/follow/enkambale?logo=twitter&style=for-the-badge" alt="enkambale" /></a> </p>
+
 - 🔭 I’m currently working on [Haya](https://haya.business)
 
 - 🌱 I’m currently learning **TypeScript**
