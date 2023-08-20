@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://enkambale.com](https://enkambale.com)
+- 👨‍💻 See my projects here 👉 [https://enkambale.com](https://enkambale.com)
 
 - 💬 Ask me about **react, next.js and express**
 
