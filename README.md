@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on [Haya](https://haya.business)
 
-- 🌱 I’m currently learning **TypeScript**
-
 - 👨‍💻 See my projects here 👉 [https://enkambale.com](https://enkambale.com)
-
-- 💬 Ask me about **react, next.js and express**
 
 - 📫 How to reach me **<campnoch@gmail.com>**
 
