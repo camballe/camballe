@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/enkambale" target="blank"><img src="https://img.shields.io/twitter/follow/enkambale?logo=twitter&style=for-the-badge" alt="enkambale" /></a> </p>
 
-- 🔭 I’m currently working on [Haya](https://haya.business)
-
-- 👨‍💻 See my projects here 👉 [https://enkambale.com](https://enkambale.com)
+- 👨‍💻 See some of my projects here 👉 [https://enkambale.com](https://enkambale.com)
 
 - 📫 How to reach me **<campnoch@gmail.com>**
 
