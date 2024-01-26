@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enoch</h1>
-<h3 align="center">A software engineer, passionate about the web</h3>
+<h3 align="center">I'm a full stack developer</h3>
 
 <p align="left"> <a href="https://twitter.com/enkambale" target="blank"><img src="https://img.shields.io/twitter/follow/enkambale?logo=twitter&style=for-the-badge" alt="enkambale" /></a> </p>
 
@@ -17,7 +17,7 @@
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=camballe&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!--### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
