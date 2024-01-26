@@ -5,9 +5,13 @@ My journey into the tech world began at the age of 16 when I discovered my knack
 
 Driven by an entrepreneurial spirit, I co-founded Jobzy, where I currently serve as the Chief Technology Officer (CTO). In this role, I take a hands-on approach, being the driving force behind all product development. From the inception of ideas to the final product, I'm deeply involved in building everything from scratch. This experience has allowed me to develop leadership, problem-solving, and teamwork skills as we navigate the challenges and opportunities in the market.
 
+In a significant milestone, Jobzy won the Start-up of the Year Award at the East Africa Com Awards on April 25, 2023, adding a notable achievement to our journey.
+
+Recognizing the importance of a strong educational foundation, I decided to pursue a BSc in Computer Science at The University of Nairobi, further expanding my technical knowledge and gaining a broader perspective on the field.
+
 Throughout my career, I've developed a keen interest in creating user-centric web products. I stay informed about the latest developments in this exciting field.
 
-My greatest strengths lie in my curiosity and passion for learning. I thrive on challenges and constantly push myself to acquire new skills, ensuring that I stay up to date with the ever-evolving landscape of technology. Now, in my personal journey, I'm seeking opportunities where I can leverage my technical expertise, entrepreneurial mindset, and passion for creating meaningful impact. I'm eager to contribute my skills to a dynamic and innovative team, collaborating with like-minded professionals to tackle complex problems and drive positive change
+My greatest strengths lie in my curiosity and passion for learning. I thrive on challenges and constantly push myself to acquire new skills, ensuring that I stay up to date with the ever-evolving landscape of technology. Now, in my personal journey, I'm seeking opportunities where I can leverage my technical expertise, entrepreneurial mindset, and passion for creating meaningful impact. I'm eager to contribute my skills to a dynamic and innovative team, collaborating with like-minded professionals to tackle complex problems and drive positive change.
 
 <p align="left"> <a href="https://twitter.com/enkambale" target="blank"><img src="https://img.shields.io/twitter/follow/enkambale?logo=twitter&style=for-the-badge" alt="enkambale" /></a> </p>
 
