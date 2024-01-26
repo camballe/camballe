@@ -5,7 +5,7 @@
 
 - 👨‍💻 See some of my top projects on my [portfolio website](https://dev.enkambale.com)
 
-- 📫 How to reach me **<campnoch@gmail.com>**
+- 📫 Reach me via **<campnoch@gmail.com>**
 
 
 # 💻 Tech Stack:
