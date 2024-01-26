@@ -1,7 +1,15 @@
 <h1 align="center">Hi, I'm Enoch</h1>
-<h3 align="center">I'm a full-stack developer</h3>
+<h3 align="center">I'm a software engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/enkambale" target="blank"><img src="https://img.shields.io/twitter/follow/enkambale?logo=twitter&style=for-the-badge" alt="enkambale" /></a> </p>
+
+My journey into the tech world began at the age of 16 when I discovered my knack for coding. Starting with freelance gigs, I not only honed my technical skills but also developed the ability to work independently and deliver quality results.
+
+Driven by an entrepreneurial spirit, I co-founded Jobzy, where I currently serve as the Chief Technology Officer (CTO). In this role, I take a hands-on approach, being the driving force behind all product development. From the inception of ideas to the final product, I'm deeply involved in building everything from scratch. This experience has allowed me to develop leadership, problem-solving, and teamwork skills as we navigate the challenges and opportunities in the market.
+
+Throughout my career, I've developed a keen interest in creating user-centric web products. I stay informed about the latest developments in this exciting field.
+
+My greatest strengths lie in my curiosity and passion for learning. I thrive on challenges and constantly push myself to acquire new skills, ensuring that I stay up to date with the ever-evolving landscape of technology. Now, in my personal journey, I'm seeking opportunities where I can leverage my technical expertise, entrepreneurial mindset, and passion for creating meaningful impact. I'm eager to contribute my skills to a dynamic and innovative team, collaborating with like-minded professionals to tackle complex problems and drive positive change
 
 - 👨‍💻 See some of my top projects on my [portfolio website](https://dev.enkambale.com)
 
