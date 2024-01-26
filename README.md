@@ -3,7 +3,7 @@
 
 My journey into the tech world began at the age of 16 when I discovered my knack for coding. Starting with freelance gigs, I not only honed my technical skills but also developed the ability to work independently and deliver quality results.
 
-Driven by an entrepreneurial spirit, I co-founded Jobzy, where I currently serve as the Chief Technology Officer (CTO). In this role, I take a hands-on approach, being the driving force behind all product development. From the inception of ideas to the final product, I'm deeply involved in building everything from scratch. This experience has allowed me to develop leadership, problem-solving, and teamwork skills as we navigate the challenges and opportunities in the market.
+Driven by an entrepreneurial spirit, I co-founded [Jobzy](https://www.jobzy.africa), where I currently serve as the Chief Technology Officer (CTO). In this role, I take a hands-on approach, being the driving force behind all product development. From the inception of ideas to the final product, I'm deeply involved in building everything from scratch. This experience has allowed me to develop leadership, problem-solving, and teamwork skills as we navigate the challenges and opportunities in the market.
 
 In a significant milestone, Jobzy won the Start-up of the Year Award at the East Africa Com Awards on April 25, 2023, adding a notable achievement to our journey.
 
