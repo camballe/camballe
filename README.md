@@ -8,6 +8,7 @@ Driven by an entrepreneurial spirit, I co-founded [Jobzy](https://www.jobzy.afri
 In a significant milestone, Jobzy won the Start-up of the Year Award at the East Africa Com Awards on April 25, 2023, adding a notable achievement to our journey.
 
 ![Startup of the Year Award](https://i.postimg.cc/RhRf0prp/20240124-160436.jpg "Startup of the Year Award")
+![Startup of the Year Award](https://i.postimg.cc/nrZBpbWQ/20240124-160452.jpg "Startup of the Year Award")
 
 Throughout my career, I've developed a keen interest in creating user-centric web products. I stay informed about the latest developments in this exciting field.
 
