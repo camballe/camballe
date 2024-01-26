@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Enoch</h1>
-<h3 align="center">I'm a software engineer</h3>
+<h3 align="center">I'm a software engineer and startup founder 👨🏾‍💻</h3>
 
 My journey into the tech world began at the age of 16 when I discovered my knack for coding. Starting with freelance gigs, I not only honed my technical skills but also developed the ability to work independently and deliver quality results.
 
