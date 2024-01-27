@@ -1,3 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Enoch's GitHub Profile</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      line-height: 1.6;
+      background-color: #f7f7f7;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1, h3 {
+      color: #24292e;
+    }
+
+    p {
+      color: #586069;
+    }
+
+    a {
+      color: #0366d6;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .image-container {
+      display: flex;
+      justify-content: space-between;
+      max-width: 100%;
+      margin: 20px 0;
+    }
+
+    .image-container img {
+      max-width: 48%; /* Adjust the width as needed */
+      height: auto;
+      border-radius: 8px;
+      margin-bottom: 10px;
+    }
+
+    .tech-stack {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .tech-stack img {
+      width: 100px; /* Adjust the size as needed */
+      height: auto;
+    }
+
+    .github-stats {
+      margin-top: 20px;
+    }
+
+    .github-stats img {
+      width: 48%;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+
 <h1 align="center">Hi, I'm Enoch</h1>
 <h3 align="center">I'm a software engineer and startup founder 👨🏾‍💻</h3>
 
@@ -7,8 +76,10 @@ Driven by an entrepreneurial spirit, I co-founded [Jobzy](https://www.jobzy.afri
 
 In a significant milestone, Jobzy won the Start-up of the Year Award at the East Africa Com Awards on April 25, 2023, adding a notable achievement to our journey.
 
-![Startup of the Year Award](https://i.postimg.cc/RhRf0prp/20240124-160436.jpg "Startup of the Year Award")
-![Startup of the Year Award](https://i.postimg.cc/nrZBpbWQ/20240124-160452.jpg "Startup of the Year Award")
+<div class="image-container">
+  <img src="https://i.postimg.cc/RhRf0prp/20240124-160436.jpg" alt="Startup of the Year Award">
+  <img src="https://i.postimg.cc/nrZBpbWQ/20240124-160452.jpg" alt="Startup of the Year Award">
+</div>
 
 Throughout my career, I've developed a keen interest in creating user-centric web products. I stay informed about the latest developments in this exciting field.
 
@@ -16,22 +87,18 @@ My greatest strengths lie in my curiosity and passion for learning. I thrive on 
 
 <p align="left"> <a href="https://twitter.com/enkambale" target="blank"><img src="https://img.shields.io/twitter/follow/enkambale?logo=twitter&style=for-the-badge" alt="enkambale" /></a> </p>
 
-
 - 👨‍💻 See some of my top projects on my [portfolio website](https://dev.enkambale.com)
 
 - 📫 Reach me via **<campnoch@gmail.com>**
 
-
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=camballe&theme=dark&hide_border=false)<br/>
 <!---![](https://github-readme-stats.vercel.app/api/top-langs/?username=camballe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)--->
 
-<!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=camballe&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
-
-<!--### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</body>
+</html>
