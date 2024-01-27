@@ -12,7 +12,7 @@ In a significant milestone, Jobzy won the Start-up of the Year Award at the East
 
 <div class="image-container" style="display:flex; flex-wrap:wrap">
   <img src="https://i.postimg.cc/RhRf0prp/20240124-160436.jpg" alt="Startup of the Year Award" style="width:400px; height:225px">
-  <img src="https://i.postimg.cc/nrZBpbWQ/20240124-160452.jpg" alt="Startup of the Year Award" style="width:400px; height:264.75px">
+  <img src="https://i.postimg.cc/nrZBpbWQ/20240124-160452.jpg" alt="Startup of the Year Award" style="width:400px; height:264px">
 </div>
 
 Throughout my career, I've developed a keen interest in creating user-centric web products. I stay informed about the latest developments in this exciting field.
