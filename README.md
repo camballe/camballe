@@ -10,7 +10,7 @@ In a significant milestone, Jobzy won the Start-up of the Year Award at the East
 <!--![Startup of the Year Award](https://i.postimg.cc/RhRf0prp/20240124-160436.jpg "Startup of the Year Award")
 ![Startup of the Year Award](https://i.postimg.cc/nrZBpbWQ/20240124-160452.jpg "Startup of the Year Award")-->
 
-<div class="image-container" style="display:flex; flex-wrap:wrap">
+<div class="image-container" style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center;">
   <img src="https://i.postimg.cc/RhRf0prp/20240124-160436.jpg" alt="Startup of the Year Award" style="width:400px; height:225px">
   <img src="https://i.postimg.cc/nrZBpbWQ/20240124-160452.jpg" alt="Startup of the Year Award" style="width:400px; height:264px">
 </div>
