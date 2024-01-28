@@ -35,7 +35,7 @@ My greatest strengths lie in my curiosity and passion for learning. I thrive on 
 <!--[![Enoch's GitHub stats](https://github-readme-stats-c99hzb3te-camballe.vercel.app/api?username=camballe)](https://github.com/camballe/github-readme-stats)-->
 
 <!--[![GitHub stats](https://github-readme-stats-eta-khaki-53.vercel.app/api?username=camballe&show_icons=true&count_private=true)](https://github.com/camballe/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats-eta-khaki-53.vercel.app/api/top-langs/?username=camballe&layout=pie&theme=dark)](https://github.com/camballe/github-readme-stats)
+[![Top Langs](https://github-readme-stats-delta-dun.vercel.app/api/top-langs/?username=camballe&layout=pie&theme=dark)](https://github.com/camballe/github-readme-stats)
 <!---![](https://github-readme-stats.vercel.app/api/top-langs/?username=camballe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)--->
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=camballe&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
