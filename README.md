@@ -20,6 +20,8 @@ Throughout my career, I've developed a keen interest in creating user-centric we
 My greatest strengths lie in my curiosity and passion for learning. I thrive on challenges and constantly push myself to acquire new skills, ensuring that I stay up to date with the ever-evolving landscape of technology. Now, in my personal journey, I'm seeking opportunities where I can leverage my technical expertise, entrepreneurial mindset, and passion for creating meaningful impact. I'm eager to contribute my skills to a dynamic and innovative team, collaborating with like-minded professionals to tackle complex problems and drive positive change.
 
 <p align="left"> <a href="https://twitter.com/enkambale" target="blank"><img src="https://img.shields.io/twitter/follow/enkambale?logo=twitter&style=for-the-badge" alt="enkambale" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/enochkambale" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="enochkambale" /></a> </p>
+
 
 
 - 👨‍💻 See some of my top projects on my [portfolio website](https://dev.enkambale.com)
