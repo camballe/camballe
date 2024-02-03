@@ -7,7 +7,7 @@ Let's connect 👇🏾😊
 
 
 
-- 👨‍💻 See some of my top projects on my [portfolio website](https://dev.enkambale.com)
+- 👨‍💻 Here is [more about me](https://enkambale.com)
 
 - 📫 Reach me via **<campnoch@gmail.com>**
 
