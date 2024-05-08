@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Enoch</h1>
-<h3 align="center">I'm a software engineer who is passionate about creating user-centric web products👨🏾‍💻</h3>
+<p align="center">I'm a software engineer who is passionate about creating user-centric web products👨🏾‍💻</p>
 
 Let's connect 👇🏾😊
 <p align="left"> <a href="https://twitter.com/enkambale" target="blank"><img src="https://img.shields.io/twitter/follow/enkambale?logo=twitter&style=for-the-badge" alt="enkambale" /></a> </p>
