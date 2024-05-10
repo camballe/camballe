@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Enoch</h1>
-<h4 align="center">I'm a software engineer who is passionate about creating user-centric web products👨🏾‍💻</h4>
+<h4 align="center">I have been building software since I was 16</h4>
 
 Let's connect 👇🏾😊
 <p align="left"> <a href="https://twitter.com/enkambale" target="blank"><img src="https://img.shields.io/twitter/follow/enkambale?logo=twitter&style=for-the-badge" alt="enkambale" /></a> </p>
@@ -9,7 +9,7 @@ Let's connect 👇🏾😊
 
 - 👨‍💻 Here is [more about me](https://enkambale.com)
 
-- 📫 Reach me via **<campnoch@gmail.com>**
+- 📫 [Reach out to me](https://dev.enkambale.com/#contact)
 
 
 # 💻 Tech Stack:
