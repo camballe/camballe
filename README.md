@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://enkambale.com">Enoch</a></h1>
-<h4 align="center">I have been building software since I was 16</h4>
+<h4 align="center">I am a full stack developer and I have have been building software since I was 16</h4>
 
 
 <p align="left"> <a href="https://twitter.com/enkambale" target="blank"><img src="https://img.shields.io/twitter/follow/enkambale?logo=twitter&style=for-the-badge" alt="enkambale" /></a> </p>
