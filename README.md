@@ -7,7 +7,7 @@
 
 
 
-- 👨‍💻 Here is [my bio](https://enkambale.com)
+- 👨‍💻 Here is [a more detailed bio](https://enkambale.com)
 
 - 📫 [Reach out to me](https://dev.enkambale.com/#contact)
 
