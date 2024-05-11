@@ -17,4 +17,4 @@
 [![Top Langs](https://github-readme-stats-delta-dun.vercel.app/api/top-langs/?username=camballe&layout=compact&theme=dark&card_width=400)](https://github.com/camballe/github-readme-stats)  <br/>
 
 # 📊 WakaTime Stats:
-[![Enoch's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enkambale&theme=dark&layout=compact&custom_title="WakaTime%20Stats%(Last%207%20Days)")](https://github.com/anuraghazra/github-readme-stats)
+[![Enoch's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enkambale&theme=dark&layout=compact&custom_title=WakaTime%20Stats%(Last%207%20Days))](https://github.com/anuraghazra/github-readme-stats)
