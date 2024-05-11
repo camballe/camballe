@@ -15,4 +15,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=camballe&theme=dark&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats-delta-dun.vercel.app/api/top-langs/?username=camballe&layout=donut&theme=dark)](https://github.com/camballe/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enkambale&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enkambale&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
