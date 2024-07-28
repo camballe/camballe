@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://enkambale.com">Enoch</a></h1>
 <p align="left">
 Full-stack engineer with expertise in web and mobile application development. Passionate about creating user-centric solutions that blend form and function.
-<br/>
+<br/><br/>
 Core competencies: TypeScript, Next.js, Tailwind CSS, tRPC, Express.js, PostgreSQL, Prisma
 <br/><br/>
 Additional skills:
