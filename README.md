@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://enkambale.com">Enoch</a></h1>
-<h4 align="center">I am a full-stack engineer, passionate about creating user-centric web and mobile applications. I also do a bit of machine learning and low level programming.</h4>
+<p align="left">I am a full-stack engineer, passionate about creating user-centric web and mobile applications. I also do a bit of machine learning and low-level programming.</p>
 
 
 <p align="left"> <a href="https://twitter.com/enkambale" target="blank"><img src="https://img.shields.io/twitter/follow/enkambale?logo=twitter&style=for-the-badge" alt="enkambale" /></a> </p>
