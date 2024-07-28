@@ -2,7 +2,7 @@
 <p align="left">
 I am a full-stack engineer with expertise in web and mobile application development. Passionate about creating user-centric solutions that blend form and function.
 <br/><br/>
-Core competencies: TypeScript, Next.js, Tailwind CSS, tRPC, Express.js, PostgreSQL, Prisma
+Core competencies: TypeScript, Next.js, Tailwind CSS, tRPC, Expo, Express.js, PostgreSQL, Prisma
 <br/><br/>
 Additional skills:
 <br/>
