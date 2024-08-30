@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm <a href="https://enkambale.com">Enoch</a></h1>
 <p align="left">
-I am a software engineer engineer with expertise in full-stack development. Passionate about creating user-centric solutions that blend form and function.
+I'm the co-founder & CTO of <a href="https://dev.enkambale.com">Jobzy</a>
 <br/><br/>
-Core competencies: TypeScript, React, Next.js, Tailwind CSS, tRPC, React Native, Expo, Node.js, Express.js, PostgreSQL, Prisma, MongoDB, Mongoose
+What I mostly use for work: TypeScript, React, Next.js, Tailwind CSS, tRPC, React Native, Expo, Node.js, Express.js, PostgreSQL, Prisma, MongoDB, Mongoose
+I do some ML with Python and low-level programming with C during my free time. 
 <br/><br/>
 Committed to writing clean, maintainable code and leveraging cutting-edge technologies to solve complex problems.
 
