@@ -3,6 +3,7 @@
 I'm the co-founder & CTO of <a href="https://dev.enkambale.com">Jobzy</a>
 <br/><br/>
 What I mostly use for work: TypeScript, React, Next.js, Tailwind CSS, tRPC, React Native, Expo, Node.js, Express.js, PostgreSQL, Prisma, MongoDB, Mongoose
+<br/><br/>
 I do some ML with Python and low-level programming with C during my free time. 
 <br/><br/>
 Committed to writing clean, maintainable code and leveraging cutting-edge technologies to solve complex problems.
