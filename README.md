@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://enkambale.com">Enoch</a></h1>
 <p align="left">
-I'm the co-founder & CTO of <a href="https://dev.enkambale.com">Jobzy</a>
+I'm the co-founder & CTO of <a href="https://dev.enkambale.com">Jobzy</a>.
 <br/><br/>
 What I mostly use for work: TypeScript, React, Next.js, Tailwind CSS, tRPC, React Native, Expo, Node.js, Express.js, PostgreSQL, Prisma, MongoDB, Mongoose
 <br/><br/>
