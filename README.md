@@ -6,6 +6,8 @@ Core competencies: TypeScript, React, Next.js, Tailwind CSS, tRPC, React Native,
 <br/><br/>
 Committed to writing clean, maintainable code and leveraging cutting-edge technologies to solve complex problems.
 
+Here are <a href="https://dev.enkambale.com">some of my projects</a>
+
 
 <p align="left"> <a href="https://twitter.com/enkambale" target="blank"><img src="https://img.shields.io/twitter/follow/enkambale?logo=twitter&style=for-the-badge" alt="enkambale" /></a> </p>
 <p align="left"><a href="https://www.linkedin.com/in/enochkambale" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="enochkambale" /></a> </p>
