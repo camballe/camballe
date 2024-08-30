@@ -1,17 +1,10 @@
 <h1 align="center">Hi, I'm <a href="https://enkambale.com">Enoch</a></h1>
 <p align="left">
-I am a full-stack engineer with expertise in web and mobile application development. Passionate about creating user-centric solutions that blend form and function.
+I am a software engineer engineer with expertise in full-stack development. Passionate about creating user-centric solutions that blend form and function.
 <br/><br/>
-Core competencies: TypeScript, Next.js, Tailwind CSS, tRPC, Expo, Express.js, PostgreSQL, Prisma
+Core competencies: TypeScript, React, Next.js, Tailwind CSS, tRPC, Expo, Node.js, Express.js, PostgreSQL, Prisma, MongoDB, Mongoose
 <br/><br/>
-Additional skills:
-<br/>
-- Machine Learning: Numpy, Pandas, Scikit-learn
-<br/>
-- Low-level programming: C, C++
-<br/><br/>
-Committed to writing clean, maintainable code and leveraging cutting-edge technologies to solve complex problems. Always eager to learn and contribute to innovative projects.
-</p>
+Committed to writing clean, maintainable code and leveraging cutting-edge technologies to solve complex problems.
 
 
 <p align="left"> <a href="https://twitter.com/enkambale" target="blank"><img src="https://img.shields.io/twitter/follow/enkambale?logo=twitter&style=for-the-badge" alt="enkambale" /></a> </p>
