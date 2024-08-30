@@ -8,7 +8,7 @@ I do some ML with Python and low-level programming with C during my free time.
 <br/><br/>
 I'm committed to writing clean, maintainable code and leveraging cutting-edge technologies to solve complex problems.
 
-Here are <a href="https://dev.enkambale.com">some of my projects</a>
+Here are <a href="https://dev.enkambale.com">some of my projects</a>.
 
 
 <p align="left"> <a href="https://twitter.com/enkambale" target="blank"><img src="https://img.shields.io/twitter/follow/enkambale?logo=twitter&style=for-the-badge" alt="enkambale" /></a> </p>
