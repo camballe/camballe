@@ -6,7 +6,7 @@ What I mostly use for work: TypeScript, React, Next.js, Tailwind CSS, tRPC, Reac
 <br/><br/>
 I do some ML with Python and low-level programming with C during my free time. 
 <br/><br/>
-Committed to writing clean, maintainable code and leveraging cutting-edge technologies to solve complex problems.
+I'm committed to writing clean, maintainable code and leveraging cutting-edge technologies to solve complex problems.
 
 Here are <a href="https://dev.enkambale.com">some of my projects</a>
 
