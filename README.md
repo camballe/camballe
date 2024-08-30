@@ -2,7 +2,7 @@
 <p align="left">
 I am a software engineer engineer with expertise in full-stack development. Passionate about creating user-centric solutions that blend form and function.
 <br/><br/>
-Core competencies: TypeScript, React, Next.js, Tailwind CSS, tRPC, Expo, Node.js, Express.js, PostgreSQL, Prisma, MongoDB, Mongoose
+Core competencies: TypeScript, React, Next.js, Tailwind CSS, tRPC, React Native, Expo, Node.js, Express.js, PostgreSQL, Prisma, MongoDB, Mongoose
 <br/><br/>
 Committed to writing clean, maintainable code and leveraging cutting-edge technologies to solve complex problems.
 
