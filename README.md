@@ -2,6 +2,7 @@
 <p align="left">
 I'm the co-founder & CTO of <a href="https://dev.enkambale.com">Jobzy</a>.
 <br/><br/>
+
 # 💫 About Me:
 With almost 5 years of professional experience, I build web, mobile, and blockchain apps with a passion for clean, efficient, and scalable code. Whether it’s diving deep into TypeScript for modern web development, crafting dapps with Solidity, or even getting down to the metal with C, I thrive in versatile environments and love tackling complex challenges.<br><br>I’m always learning, always experimenting, and always looking to push the boundaries of what I can create. You’ll probably find me either deep in code, building the next big thing, or crushing through bugs at 2 AM. 💻
 <br><br>
