@@ -1,6 +1,6 @@
-<h1 align="center">Hey there! 👋 I'm <a href="https://enkambale.com">Enoch</a> — a Full Stack Developer</h1>
+<h1 align="center">Hey there! 👋 I'm <a href="https://enkambale.com">Enoch</a></h1>
 <p align="left">
-I'm the co-founder & CTO of <a href="https://dev.enkambale.com">Jobzy</a>.
+I'm a Full-stack Developer and the Co-founder/CTO of <a href="https://dev.enkambale.com">Jobzy</a>.
 <br/><br/>
 
 # 💫 About Me:
