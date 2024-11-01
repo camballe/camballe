@@ -1,6 +1,5 @@
-<h1 align="center">Hey there! 👋 I'm <a href="https://enkambale.com">Enoch</a></h1>
+<h1 align="center">Hey there! I'm <a href="https://enkambale.com">Enoch</a></h1>
 
-# 💫 About Me:
 I'm a full-stack web developer with nearly 5 years of hands-on experience building powerful, user-centered applications. From sleek frontends in React and Next.js to rock-solid backends with Node.js and Express, I build products that are fast, scalable, and built to last. I know the ins and outs of TypeScript, enjoy architecting clean solutions, and thrive on finding smart fixes to tough problems.
 
 I’m always in the code—whether optimizing performance, debugging into the late hours, or pushing features that users actually want. If it involves challenging code or pushing a product further, I’m in.
