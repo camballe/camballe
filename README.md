@@ -4,7 +4,7 @@ I'm a full-stack web developer with nearly 5 years of hands-on experience buildi
 
 I’m always in the code—whether optimizing performance, debugging into the late hours, or pushing features that users actually want. If it involves challenging code or pushing a product further, I’m in.
 <br><br>
-Here are <a href="https://dev.enkambale.com">some of my projects</a>.
+Here are <a href="https://dev.enkambale.com">some of the projects I've worked on</a>.
 
 
 ## 🌐 Socials:
