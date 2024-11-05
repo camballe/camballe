@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! I'm <a href="https://enkambale.com">Enoch</a></h1>
 
-I'm a full-stack web developer with nearly 5 years of hands-on experience building powerful, user-centered applications. From sleek frontends in React and Next.js to rock-solid backends with Node.js and Express, I build products that are fast, scalable, and built to last. I know the ins and outs of TypeScript, enjoy architecting clean solutions, and thrive on finding smart fixes to tough problems.
+Full-stack dev here, building apps that are fast, reliable, and user-focused. Almost 5 years deep in the game with React, Next.js, Node, and TypeScript. I’m on Neovim (yes, on Arch btw) with Alacritty and zsh, and I’ll happily tweak my setup at 2 AM if it means better code flow.
 
-I’m always in the code—whether optimizing performance, debugging into the late hours, or pushing features that users actually want. If it involves challenging code or pushing a product further, I’m in.
+I like tackling tough problems, optimizing for speed, and shipping features that actually matter to users. From frontends to backends, if it involves smart solutions and pushing limits, I’m all in.
 <br><br>
 Here are <a href="https://dev.enkambale.com">some of the projects I've worked on</a>.
 
