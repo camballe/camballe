@@ -15,7 +15,7 @@ Here are <a href="https://dev.enkambale.com">some of the projects I've worked on
 # 📊 Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=camballe&theme=dark&hide_border=false) <br/>
 
-[![Enoch's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enkambale&theme=dark&layout=compact&custom_title=WakaTime%20Stats%20(Last%201%20Year))](https://github.com/anuraghazra/github-readme-stats)
+[![Enoch's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enkambale&theme=dark&layout=compact&custom_title=WakaTime%20Stats%20(Last%20Year))](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
