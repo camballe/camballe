@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm <a href="https://enkambale.com">Enoch</a></h1>
 
-Full-stack dev here, building apps that are fast, reliable, and user-focused. Almost 5 years deep in the game with React, Next.js, Node, and TypeScript. I’m on Neovim (yes, on Arch btw) with Alacritty and zsh, and I’ll happily tweak my setup at 2 AM if it means better code flow.
+Full-stack dev here, building apps that are fast, reliable, and user-focused. Almost 5 years deep in the game with React, Next.js, Node, and TypeScript. I’m on Neovim (yes, on Arch btw, with Hyprland too btw) with kitty and zsh, and I’ll happily tweak my setup at 2 AM if it means better code flow.
 
 I like tackling tough problems, optimizing for speed, and shipping features that actually matter to users. From frontends to backends, if it involves smart solutions and pushing limits, I’m all in.
 <br><br>
