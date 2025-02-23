@@ -4,12 +4,13 @@ Formally an Arch user (BTW 😆), and now on Mac OS, I'm a software engineer wit
 
 I do tinker a lot with AI/ML and a bit of low-level stuff when I'm free though; helps take my mind off work.
 
-Here is <a href="https://talent.jobzy.africa">MY BEST WORK</a> and you can find some more here on GitHub.
+[![Enoch's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enkambale&theme=dark&layout=compact&custom_title=WakaTime%20Stats%20(Last%207%20Days))](https://github.com/anuraghazra/github-readme-stats)
 
+Here is <a href="https://talent.jobzy.africa">MY BEST WORK</a> and you can find some more here on GitHub.
 
 #### Let's chat 👇😃:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enochkambale) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/enkambale) 
 
 <!---![](https://github-readme-streak-stats.herokuapp.com/?user=camballe&theme=dark&hide_border=false) <br/>-->
 
-[![Enoch's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enkambale&theme=dark&layout=compact&custom_title=WakaTime%20Stats%20(Last%207%20Days))](https://github.com/anuraghazra/github-readme-stats)
+
