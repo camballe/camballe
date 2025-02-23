@@ -30,7 +30,6 @@ I tinker with **AI/ML** and **low-level stuff** when I’m free—because why no
 ---
 
 ### 🏆 GitHub Flex Stats  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=camballe&theme=darkhub&no-frame=true&column=7)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=camballe&theme=github-dark)  
 
 ---
