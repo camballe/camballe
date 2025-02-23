@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Enoch and I USE NEOVIM BTW!</h1>
+<h1 align="center">Hey there! I'm Enoch</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&height=30&lines=I+use+Neovim+BTW!;JavaScript+on+the+server+isn't+too+bad." />
