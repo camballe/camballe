@@ -4,7 +4,6 @@ Formally an Arch user (BTW 😆), and now on Mac OS, I'm a software engineer wit
 
 I do tinker a lot with AI/ML and a bit of low-level stuff when I'm free though; helps take my mind off work.
 
-<br><br>
 Here is <a href="https://talent.jobzy.africa">MY BEST WORK</a> and you can find some more here on GitHub.
 
 Let's chat 👇😃
