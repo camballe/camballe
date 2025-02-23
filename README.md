@@ -13,6 +13,3 @@ Here is <a href="https://talent.jobzy.africa">MY BEST WORK</a> and you can find 
 <!---![](https://github-readme-streak-stats.herokuapp.com/?user=camballe&theme=dark&hide_border=false) <br/>-->
 
 [![Enoch's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enkambale&theme=dark&layout=compact&custom_title=WakaTime%20Stats%20(Last%207%20Days))](https://github.com/anuraghazra/github-readme-stats)
-
-### 🧠 Something for you to think about
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
