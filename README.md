@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm <a href="https://enkambale.com">Enoch</a> and I USE NEOVIM BTW!</h1>
 
-Formally an Arch user (BTW 😆), and now on Mac OS, I'm a software engineer with almost 6 years of experience. I mostly build stuff with TypeScript, since I mostly do full-stack web dev. I love buiding with Next.js, TanStack, Shadcn, Zustand, Zod, Node.js, NestJS, Postgres and Drizzle.
+Formally an Arch user (BTW 😆), and now on Mac OS, I'm a software engineer with almost 6 years of experience. I mostly build stuff with TypeScript, since I mostly do full-stack web dev. I mostly LOVE buiding with Next.js, TanStack, Shadcn, Zustand, Zod, Node.js, NestJS, Postgres and Drizzle.
 
 I do tinker a lot with AI/ML and a bit of low-level stuff when I'm free though; helps take my mind off work.
 
