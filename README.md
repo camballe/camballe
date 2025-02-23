@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm <a href="https://enkambale.com">Enoch</a> and I USE NEOVIM BTW!</h1>
+<h1 align="center">Hey there! I'm Enoch and I USE NEOVIM BTW!</h1>
 
 Formally an Arch user (BTW 😆), and now on Mac OS, I'm a software engineer with almost 6 years of experience. I mostly build stuff with TypeScript, since I mostly do full-stack web dev. I mostly LOVE buiding with Next.js, TanStack, Shadcn, Zustand, Zod, Node.js, NestJS, Postgres and Drizzle.
 
