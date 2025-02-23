@@ -15,7 +15,7 @@ I absolutely LOVE working with:
 
 I tinker with **AI/ML** and **low-level stuff** when I’m free—because why not?  
 
-🔧 **Current Setup:**  
+🛠 **Current Setup:**  
 - **Editor:** Neovim (tweaked to perfection)  
 - **Terminal:** Ghostty + zsh + Tmux  
 - **OS:** macOS (yes, I miss `pacman -Syu`)  
@@ -23,14 +23,22 @@ I tinker with **AI/ML** and **low-level stuff** when I’m free—because why no
 ---
 
 ### 📈 WakaTime Stats (Last 7 Days)  
-[![Enoch's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enkambale&theme=dark&layout=compact&custom_title=WakaTime%20Stats%20(Last%207%20Days))](https://github.com/anuraghazra/github-readme-stats)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enkambale&theme=dark&layout=compact&custom_title=WakaTime%20Stats%20(Last%207%20Days)" />
+</p>
 
 💡 Want **ALL-TIME stats?** Click [here](https://wakatime.com/@enkambale).  
 
 ---
 
 ### 🏆 GitHub Flex Stats  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=camballe&theme=github-dark)  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=enkambale&theme=darkhub&no-frame=true&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enkambale&theme=github-dark" />
+</p>
 
 ---
 
@@ -41,17 +49,24 @@ You can find more projects here on GitHub, but **Jobzy** is **peak software engi
 ---
 
 ### 🎯 Fun Facts  
-- 🔥 **Neovim evangelist** (and will argue about it)  
-- 🚀 **TypeScript over JavaScript, always**  
-- 🛠 **Will refactor code at 2 AM if it means better DX**  
-- 🤖 **Tinkering with AI and low-level stuff just for fun**  
-- ⚡ **Frontend is pain, but someone has to do it**  
+✅ **Neovim evangelist** (and will argue about it)  
+✅ **TypeScript over JavaScript, always**  
+✅ **Will refactor code at 2 AM if it means better DX**  
+✅ **Tinkering with AI and low-level stuff just for fun**  
+✅ **Frontend is pain, but someone has to do it**  
+✅ **Not afraid of regex (well, kinda…)**  
 
 ---
 
 ### 📞 Let's Chat 😃  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enochkambale)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/enkambale)  
+<p align="center">
+  <a href="https://linkedin.com/in/enochkambale">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/enkambale">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+  </a>
+</p>
 
 ---
 
