@@ -18,7 +18,7 @@ I tinker with **AI/ML** and **low-level stuff** when I’m free—because why no
 🛠 **Current Setup:**  
 - **Editor:** Neovim (tweaked to perfection)  
 - **Terminal:** Ghostty + zsh + Tmux  
-- **OS:** macOS (yes, I miss `pacman -Syu`)  
+- **OS:** macOS (yes, I miss `yay -Syu`)  
 
 ---
 
