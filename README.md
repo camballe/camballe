@@ -33,11 +33,7 @@ I tinker with **AI/ML** and **low-level stuff** when I’m free—because why no
 
 ### 🏆 GitHub Flex Stats  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enkambale&theme=darkhub&no-frame=true&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enkambale&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=camballe&theme=github-dark" />
 </p>
 
 ---
