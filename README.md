@@ -2,7 +2,7 @@
 
 I USE NEOVIM BTW!
 <br><br>
-Here are <a href="https://dev.enkambale.com">some of the projects I've worked on</a>.
+Here is <a href="https://talent.jobzy.africa">MY BEST WORk</a>.
 
 
 ## 🌐 Socials:
