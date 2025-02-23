@@ -6,16 +6,16 @@ I do tinker a lot with AI/ML and a bit of low-level stuff when I'm free though; 
 
 Here is <a href="https://talent.jobzy.africa">MY BEST WORK</a> and you can find some more here on GitHub.
 
-Let's chat 👇😃
-## 🌐 Socials:
+
+## Let's chat 👇😃:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enochkambale) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/enkambale) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in )-->
 
-# 📊 Stats:
+# Some stats I use to lie to myself that I'm being productive 😆:
 <!---![](https://github-readme-streak-stats.herokuapp.com/?user=camballe&theme=dark&hide_border=false) <br/>-->
 
 [![Enoch's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enkambale&theme=dark&layout=compact&custom_title=WakaTime%20Stats%20(Last%207%20Days))](https://github.com/anuraghazra/github-readme-stats)
 
-### ✍️ Random Dev Quote
+### Something for you to think about (...or maybe not)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
