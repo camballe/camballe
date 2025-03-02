@@ -13,7 +13,7 @@ I'm a **full-stack software engineer** with almost **6 years** in the game. I mo
 I absolutely LOVE working with:  
 **Next.js, TanStack, TypeScript, Shadcn, Zustand, Zod, tRPC, Node.js, NestJS, Postgres, Drizzle.**  
 
-I tinker with **AI/ML** and **low-level stuff** when I’m free—because why not?  
+I tinker with **AI/ML** and **low-level stuff** when I’m free—because it relaxes me. 😆  
 
 🛠 **Current Setup:**  
 - **Editor:** Neovim (tweaked to perfection)  
