@@ -8,7 +8,7 @@
 
 ### 🚀 About Me  
 Formally an **Arch user (BTW 😆)**, now on **Mac OS**, but the Arch blood still runs deep.  
-I'm a **full-stack software engineer** with almost **6 years** in the game. I mostly build with **TypeScript** because I mostly build serious stuff.  
+I'm a **full-stack software engineer** with almost **6 years** in the game. I mostly build with **TypeScript**, not JavaScript, because I mostly build serious stuff 😆.  
 
 I absolutely LOVE working with:  
 **Next.js, TanStack, TypeScript, Shadcn, Zustand, Zod, tRPC, Node.js, NestJS, Postgres, Drizzle.**  
