@@ -44,16 +44,6 @@ You can find more projects here on GitHub, but **Jobzy** is **peak software engi
 
 ---
 
-### 🎯 Fun Facts  
-✅ **Neovim evangelist** (and will argue about it)  
-✅ **TypeScript over JavaScript, always**  
-✅ **Will refactor code at 2 AM if it means better DX**  
-✅ **Tinkering with AI and low-level stuff just for fun**  
-✅ **Frontend is pain, but someone has to do it**  
-✅ **Not afraid of regex (well, kinda…)**  
-
----
-
 ### 📞 Let's Chat 😃  
 <p align="center">
   <a href="https://linkedin.com/in/enochkambale">
