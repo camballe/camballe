@@ -40,7 +40,7 @@ I tinker with **AI/ML** and **low-level stuff** when I’m free—because it rel
 
 ### 🔥 My Best Work  
 Here’s **<a href="https://talent.jobzy.africa">MY BEST WORK</a>**—a startup I built from scratch.  
-You can find more projects here on GitHub, but **Jobzy** is **peak software engineering.**  
+You can find more projects here on GitHub.
 
 ---
 
