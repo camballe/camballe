@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me  
-I'm a **full-stack software engineer** with almost **6 years** in the game. I mostly build with **TypeScript**, not JavaScript, because I mostly build serious stuff 😆.  
+I'm a **full-stack software engineer** with almost **5 years** in the game. I mostly build with **TypeScript**.  
 
 I absolutely LOVE working with:  
 **Next.js, TanStack, TypeScript, Shadcn, Zustand, Zod, tRPC, Node.js, NestJS, Postgres, Drizzle.**  
