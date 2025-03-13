@@ -27,14 +27,7 @@ I tinker with **AI/ML** and **low-level stuff** when I’m free—because it rel
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enkambale&theme=dark&layout=compact&custom_title=WakaTime%20Stats%20(Last%207%20Days)" />
 </p>
 
-💡 Want **ALL-TIME stats?** Click [here](https://wakatime.com/@enkambale).  
-
----
-
-### 🏆 GitHub Flex Stats  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=camballe&theme=github-dark" />
-</p>
+💡 Want **ALL-TIME stats?** Click [here](https://wakatime.com/@enkambale).
 
 ---
 
