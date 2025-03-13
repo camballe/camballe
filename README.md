@@ -1,13 +1,12 @@
 <h1 align="center">Hey there! I'm Enoch</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&height=30&lines=I+use+Neovim+BTW!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&height=30&lines=I+use+Neovim+BTW!;I've+used+Arch+BTW!;I've+used+Hyprland+BTW!;Now+on+Mac OS+BTW!;" />
 </p>
 
 ---
 
 ### 🚀 About Me  
-Formally an **Arch user (BTW 😆)**, now on **Mac OS**, but the Arch blood still runs deep.  
 I'm a **full-stack software engineer** with almost **6 years** in the game. I mostly build with **TypeScript**, not JavaScript, because I mostly build serious stuff 😆.  
 
 I absolutely LOVE working with:  
