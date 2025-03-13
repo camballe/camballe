@@ -17,7 +17,7 @@ I tinker with **AI/ML** and **low-level stuff** when I’m free.
 🛠 **Current Setup:**  
 - **Editor:** Neovim (tweaked to perfection)  
 - **Terminal:** Ghostty + zsh + Tmux  
-- **OS:** macOS (yes, I miss `yay -Syu`)  
+- **OS:** macOS
 
 ---
 
