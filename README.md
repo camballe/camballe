@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Enoch</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&height=30&lines=I+use+Neovim+BTW!;I+hate+Windows!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&height=30&lines=I+use+Neovim+BTW!;" />
 </p>
 
 ---
