@@ -12,7 +12,7 @@ I'm a **full-stack software engineer** with almost **5 years** in the game. I mo
 I absolutely LOVE working with:  
 **Next.js, TanStack, TypeScript, Shadcn, Zustand, Zod, tRPC, Node.js, NestJS, Postgres, Drizzle.**  
 
-I tinker with **AI/ML** and **low-level stuff** when I’m free—because it relaxes me. 😆  
+I tinker with **AI/ML** and **low-level stuff** when I’m free.  
 
 🛠 **Current Setup:**  
 - **Editor:** Neovim (tweaked to perfection)  
@@ -45,11 +45,3 @@ You can find more projects here on GitHub.
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
   </a>
 </p>
-
----
-
-**🔮 Bonus:** If you see me online at 3 AM, **I’m probably debugging some cursed Next.js hydration error.**  
-
----
-
-<!---![](https://github-readme-streak-stats.herokuapp.com/?user=camballe&theme=dark&hide_border=false) <br/>-->
