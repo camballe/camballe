@@ -21,15 +21,6 @@ I tinker with **AI/ML** and **low-level stuff** when I’m free.
 
 ---
 
-### 📈 WakaTime Stats (Last 7 Days)  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enkambale&theme=dark&layout=compact&custom_title=WakaTime%20Stats%20(Last%207%20Days)" />
-</p>
-
-💡 Want **ALL-TIME stats?** Click [here](https://wakatime.com/@enkambale).
-
----
-
 ### 🔥 My Best Work  
 Here’s some of **<a href="https://talent.jobzy.africa">MY BEST WORK</a>**—a startup I built from scratch.  
 You can find more projects here on GitHub.
