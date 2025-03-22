@@ -28,7 +28,7 @@ You can find more projects here on GitHub.
 ---
 
 ### 📞 Let's Chat 😃  
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/enochkambale">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
