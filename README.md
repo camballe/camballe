@@ -21,12 +21,6 @@ I tinker with **AI/ML** and **low-level stuff** when I’m free.
 
 ---
 
-### 🔥 My Best Work  
-Here’s some of **<a href="https://talent.jobzy.africa">MY BEST WORK</a>**.
-You can find more projects here on GitHub.
-
----
-
 ### 📞 Let's Chat 😃  
 <p align="left">
   <a href="https://linkedin.com/in/enochkambale">
