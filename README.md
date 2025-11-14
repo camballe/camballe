@@ -1,4 +1,4 @@
-### ⚡️ I build fast, ship often, and break anything that slows me down.
+### ⚡️ I build fast and ship often, keeping momentum at all costs.
 **Full-stack TypeScript, AI systems, infra, and products people actually use.**
 
 Currently engineering at **[GitLaw](https://git.law)**, the AI legal companion for drafting, reviewing, and understanding contracts,  
