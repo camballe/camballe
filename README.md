@@ -1,6 +1,3 @@
-Full-stack Software Engineer (Next.js, TypeScript, Node.js, Go, PostgreSQL) with 5 years building scalable web and AI products. Currently at [GitLaw](https://git.law) (legal tech) and previously Co-Founder & CTO of Jobzy.
-
-Passionate about developer tools, AI, and creating products that make an impact.
-
-🔗 My Most Popular Projects: [Talanta AI - a product of Jobzy](https://home.talanta.ai)
-
+I build fast, ship often, and break anything that slows me down.
+Full-stack TypeScript, AI systems, infra, and products people actually use.
+Currently engineering at GitLaw and building Atlasium — living memory for code, infra, and workflows.
